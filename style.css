@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 1;
+    padding: 1;
+    background-image: url(backgroundheader1.jpg);
+}
+
+header {
+    background-image: url(backgroundbody.jpg);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 7;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+
+section {
+    padding: 20px;
+    margin: 25px;
+    background: #fcfbfb;
+    border-radius: 25px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-image: url(https://th.bing.com/th?id=OIP.w0KKfWe59XtA0tKAMGIcVQHaFg&w=290&h=215&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2);
+    color: #fff;
+    background-size: 100%;
+}
